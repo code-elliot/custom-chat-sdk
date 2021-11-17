@@ -4,7 +4,7 @@
             "outputFile": "C:\\Users\\khush\\Desktop\\saljithkj-chat-demo\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-small-v4\\values-small-v4.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\khush\\.gradle\\caches\\transforms-2\\files-2.1\\03a63aa61ddcce74ff0ce9444f323d39\\material-1.4.0\\res\\values-small-v4\\values-small-v4.xml",
+                    "source": "C:\\Users\\khush\\.gradle\\caches\\transforms-2\\files-2.1\\541365e1974e50adaae1c28ddc5ad839\\material-1.4.0\\res\\values-small-v4\\values-small-v4.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
