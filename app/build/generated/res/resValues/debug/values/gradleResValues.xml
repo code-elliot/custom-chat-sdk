@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Automatically generated file. DO NOT MODIFY -->
+
+    <!-- Value from default config. -->
+    <string name="app_name" translatable="false">Chat</string>
+    <!-- Value from default config. -->
+    <string name="authority" translatable="false">com.saljith.myapplication.fileprovider</string>
+    <!-- Value from default config. -->
+    <color name="colorAccent">#1A237E</color>
+    <!-- Value from default config. -->
+    <color name="colorPrimary">#2196F3</color>
+    <!-- Value from default config. -->
+    <color name="colorPrimaryDark">#1976D2</color>
+    <!-- Value from default config. -->
+    <string name="sinch_app_environment" translatable="false">45</string>
+    <!-- Value from default config. -->
+    <string name="sinch_app_key" translatable="false">12345</string>
+    <!-- Value from default config. -->
+    <string name="sinch_app_secret" translatable="false">56645</string>
+    <!-- Value from default config. -->
+    <string name="support_email" translatable="false">yoursupport@email.com</string>
+
+</resources>

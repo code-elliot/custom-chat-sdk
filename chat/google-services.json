@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "665567319101",
+    "firebase_url": "https://cb-chat-application-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "cb-chat-application",
+    "storage_bucket": "cb-chat-application.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665567319101:android:cf8e978ff46db5a7690654",
+        "android_client_info": {
+          "package_name": "chat.codebucket.in"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "665567319101-vbt2mfl4a7tfrr4i01deakmn8aar2ord.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "chat.codebucket.in",
+            "certificate_hash": "8f96f426f0a3ec012e57610f6d551589e1e230e0"
+          }
+        },
+        {
+          "client_id": "665567319101-335rb5btm5v4hu14ja5fjuqci4o70017.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzi50l-VEyBw98ysh4Jv7XccfL0aysYhU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "665567319101-335rb5btm5v4hu14ja5fjuqci4o70017.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

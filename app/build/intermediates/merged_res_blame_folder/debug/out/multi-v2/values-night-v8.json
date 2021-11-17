@@ -1,0 +1,79 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\khush\\Desktop\\saljithkj-chat-demo\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\khush\\.gradle\\caches\\transforms-2\\files-2.1\\03a63aa61ddcce74ff0ce9444f323d39\\material-1.4.0\\res\\values-night-v8\\values-night-v8.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,143,267,369,471,587,689,803,931,1047,1169,1305,1425,1559,1679,1791,1917,2041,2171,2293,2431,2565,2681",
+                        "endColumns": "87,123,101,101,115,101,113,127,115,121,135,119,133,119,111,125,123,129,121,137,133,115,119",
+                        "endOffsets": "138,262,364,466,582,684,798,926,1042,1164,1300,1420,1554,1674,1786,1912,2036,2166,2288,2426,2560,2676,2796"
+                    },
+                    "to": {
+                        "startLines": "12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,42,43,44,45,46,47,48",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "914,1002,1126,1228,1330,1446,1548,1662,1790,1906,2028,2164,2284,2418,2538,2650,3576,3700,3830,3952,4090,4224,4340",
+                        "endColumns": "87,123,101,101,115,101,113,127,115,121,135,119,133,119,111,125,123,129,121,137,133,115,119",
+                        "endOffsets": "997,1121,1223,1325,1441,1543,1657,1785,1901,2023,2159,2279,2413,2533,2645,2771,3695,3825,3947,4085,4219,4335,4455"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\khush\\.gradle\\caches\\transforms-2\\files-2.1\\0c80c065975d61f30d987efe64f32ce1\\jetified-emoji-0.6.0\\res\\values-night-v8\\values-night-v8.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,120,180",
+                        "endColumns": "64,59,56",
+                        "endOffsets": "115,175,232"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "100,165,225",
+                        "endColumns": "64,59,56",
+                        "endOffsets": "160,220,277"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\khush\\.gradle\\caches\\transforms-2\\files-2.1\\d7a326734ca425dd3ba56166f5fbfe66\\appcompat-1.3.1\\res\\values-night-v8\\values-night-v8.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,125,209,293,389,491,593,687",
+                        "endColumns": "69,83,83,95,101,101,93,88",
+                        "endOffsets": "120,204,288,384,486,588,682,771"
+                    },
+                    "to": {
+                        "startLines": "5,6,7,8,9,10,11,41",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "282,352,436,520,616,718,820,3487",
+                        "endColumns": "69,83,83,95,101,101,93,88",
+                        "endOffsets": "347,431,515,611,713,815,909,3571"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\khush\\Desktop\\saljithkj-chat-demo\\app\\src\\main\\res\\values-night\\themes.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "100",
+                        "endLines": "14",
+                        "endColumns": "12",
+                        "endOffsets": "808"
+                    },
+                    "to": {
+                        "startLines": "28",
+                        "startColumns": "4",
+                        "startOffsets": "2776",
+                        "endLines": "40",
+                        "endColumns": "12",
+                        "endOffsets": "3482"
+                    }
+                }
+            ]
+        }
+    ]
+}
